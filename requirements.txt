@@ -1,0 +1,4 @@
+typesafe-sdk
+playwright
+openpyxl
+python-dotenv
